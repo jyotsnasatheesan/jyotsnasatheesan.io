@@ -1,0 +1,300 @@
+# ============================================
+# JYOTSNA S — PORTFOLIO WEBSITE CONFIG
+# config.yml
+# ============================================
+
+# ── SITE SETTINGS ──
+site:
+  title: "Jyotsna S | Legal Professional"
+  description: "Personal portfolio of Jyotsna S — IV Year B.A.; LL.B (Hons.) student at SASTRA (Deemed) University, Thanjavur. Legal researcher, moot court advocate, and aspiring lawyer."
+  author: "Jyotsna S"
+  url: "https://jyotsnasatheesan.github.io"
+  base_url: "/"
+  language: "en"
+  charset: "UTF-8"
+  favicon: "assets/favicon.ico"
+
+# ── OWNER / PERSONAL INFO ──
+owner:
+  name: "Jyotsna S"
+  first_name: "Jyotsna"
+  last_name: "S"
+  title: "IV Year B.A.; LL.B (Hons.)"
+  tagline: "Law student passionate about litigation, legal research, and advocacy."
+  email: "jyotsnasatheesan@gmail.com"
+  phone: "+91 88913 00831"
+  location:
+    address: "Director's Residence, Malabar Cancer Center"
+    city: "Thalassery"
+    state: "Kerala"
+    pincode: "670103"
+    country: "India"
+  university: "SASTRA (Deemed) University, Thanjavur"
+  degree: "B.A.; LL.B (Hons.)"
+  year: "IV Year"
+
+# ── NAVIGATION ──
+navigation:
+  logo: "Jyotsna S."
+  links:
+    - label: "About"
+      href: "#about"
+    - label: "Experience"
+      href: "#experience"
+    - label: "Awards"
+      href: "#awards"
+    - label: "Skills"
+      href: "#skills"
+    - label: "Resume"
+      href: "#upload"
+    - label: "Contact"
+      href: "#contact"
+
+# ── HERO SECTION ──
+hero:
+  label: "Legal Professional · IV Year LL.B (Hons.)"
+  heading_line1: "Jyotsna"
+  heading_line2: "S."
+  tagline: >
+    Law student at SASTRA (Deemed) University, Thanjavur.
+    Passionate about litigation, legal research, and advocacy.
+  cta_primary:
+    label: "View Experience"
+    href: "#experience"
+  cta_secondary:
+    label: "Get in Touch"
+    href: "#contact"
+  stats:
+    - number: "5+"
+      label: "Internships"
+    - number: "5"
+      label: "Awards"
+    - number: "4"
+      label: "Languages"
+    - number: "IV"
+      label: "Year B.A. LL.B"
+
+# ── ABOUT SECTION ──
+about:
+  section_label: "Who I Am"
+  section_title: "Committed to Justice & the Law"
+  bio:
+    - paragraph: >
+        I am a fourth-year B.A.; LL.B (Hons.) student at SASTRA Deemed University,
+        Thanjavur, with a strong foundation in legal research, litigation support,
+        and courtroom advocacy.
+    - paragraph: >
+        Across multiple internships at district courts and high courts — from
+        Thalassery to the Madras High Court and Kerala High Court — I have honed
+        my ability to draft legal documents, conduct in-depth case research, and
+        assist senior advocates in complex matters.
+    - paragraph: >
+        My achievements in moot court competitions reflect my passion for oral
+        advocacy and argumentation. I also serve as Treasurer of KS Upahaar,
+        a not-for-profit organization dedicated to the underprivileged.
+
+# ── EXPERIENCE ──
+experience:
+  section_label: "Career Timeline"
+  section_title: "Professional Experience"
+  items:
+    - date: "January 2025"
+      title: "Legal Research Intern"
+      organization: "Attorneys' Alliance Law Firm"
+      location: "Kerala High Court, Ernakulam"
+      description: >
+        Assisted Adv. R Sreekumar predominantly with legal research on Criminal
+        cases and Government Service matters at the Kerala High Court.
+
+    - date: "July 2024 – July 2025"
+      title: "Treasurer"
+      organization: "KS Upahaar, SASTRA (Deemed) University"
+      location: "Thanjavur, Tamil Nadu"
+      description: >
+        Held the office of Treasurer at a not-for-profit organization helping the
+        underprivileged in the districts of Thanjavur, Trichy, and Kumbakonam,
+        Tamil Nadu.
+
+    - date: "July 2024"
+      title: "Legal Research Intern"
+      organization: "M. K. Associates"
+      location: "Kannur District Court, Kerala"
+      description: >
+        Interned at the office of Adv. Jameel, M.K. Associates, assisting with
+        legal research at the Kannur District Court.
+
+    - date: "July 2023"
+      title: "Legal Research Intern"
+      organization: "Chambers of Additional Public Prosecution"
+      location: "Madras High Court, Chennai"
+      description: >
+        Interned at the chambers of Additional Public Prosecutor Adv. A. Damodaran,
+        gaining exposure to high-court advocacy at the Madras High Court.
+
+    - date: "August 2022"
+      title: "Legal Research Intern"
+      organization: "Chambers of Adv. O G Premrajan"
+      location: "Thalassery District Court, Kannur, Kerala"
+      description: >
+        Interned under Senior Advocate Adv. O G Premarajan as a legal research
+        intern at the Thalassery District Court, Kannur, Kerala.
+
+# ── AWARDS ──
+awards:
+  section_label: "Recognition"
+  section_title: "Awards & Achievements"
+  items:
+    - icon: "🏆"
+      title: "Winner — Connaissance Intra Mock Trial"
+      event: "SASTRA (Deemed) University, 2024"
+
+    - icon: "⚖️"
+      title: "Second Best Student Advocate"
+      event: "Surana & Surana National Trial Moot, School of Excellence in Law, 2024"
+
+    - icon: "🥇"
+      title: "Best Female Advocate"
+      event: "Connaissance Intra Mock Trial Competition, SASTRA, 2023"
+
+    - icon: "🎖️"
+      title: "Quarter-Finalist (Speaker)"
+      event: "1st National Moot Court Competition, Bharath Institute of Law, Chennai"
+
+    - icon: "📜"
+      title: "Semi-Finalist (Researcher)"
+      event: "M K Nambyar National Moot Court Competition, Raja Lakhamgouda Law College, Belagavi"
+
+# ── SKILLS ──
+skills:
+  section_label: "Competencies"
+  section_title: "Skills & Expertise"
+  groups:
+    - heading: "Legal Skills"
+      items:
+        - "Legal Research"
+        - "Litigation Support"
+        - "Oral Advocacy"
+        - "Moot Court"
+        - "Case Analysis"
+
+    - heading: "Languages"
+      items:
+        - "English (Proficient)"
+        - "Hindi"
+        - "Tamil"
+        - "Malayalam"
+
+    - heading: "Professional"
+      items:
+        - "MS Word & Google Docs"
+        - "Hardworking"
+        - "Persevered"
+        - "Disciplined"
+
+# ── RESUME UPLOAD ──
+upload:
+  section_label: "Documents"
+  section_title: "Upload & Share Resume"
+  area:
+    icon: "📄"
+    heading: "Drop your resume here"
+    subtext: "Supports PDF, DOC, DOCX — Max 10MB"
+    button_label: "Browse Files"
+  validation:
+    accepted_formats:
+      - ".pdf"
+      - ".doc"
+      - ".docx"
+    max_size_mb: 10
+  messages:
+    success: "✓ Resume uploaded successfully."
+    error_format: "✕ Please upload a PDF or Word document."
+    error_size: "✕ File exceeds 10MB limit."
+
+# ── CONTACT SECTION ──
+contact:
+  section_label: "Get In Touch"
+  section_title: "Let's Connect"
+  form:
+    fields:
+      - id: "fname"
+        label: "First Name"
+        type: "text"
+        placeholder: "Your first name"
+        required: true
+      - id: "lname"
+        label: "Last Name"
+        type: "text"
+        placeholder: "Your last name"
+        required: false
+      - id: "email"
+        label: "Email Address"
+        type: "email"
+        placeholder: "your@email.com"
+        required: true
+      - id: "subject"
+        label: "Subject"
+        type: "text"
+        placeholder: "How can I help?"
+        required: true
+      - id: "message"
+        label: "Message"
+        type: "textarea"
+        placeholder: "Your message here..."
+        rows: 5
+        required: false
+    submit_label: "Send Message"
+    success_message: "✓ Message sent successfully. I will get back to you soon."
+    error_message: "✕ Please fill in all required fields."
+
+# ── DESIGN / THEME ──
+theme:
+  fonts:
+    heading: "Cormorant Garamond"
+    body: "DM Sans"
+    google_fonts_url: "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap"
+  colors:
+    cream: "#f5f0e8"
+    ink: "#1a1410"
+    gold: "#b8860b"
+    gold_light: "#d4a843"
+    muted: "#6b6055"
+    warm_white: "#faf7f2"
+  watermark_text: "LAW"
+  animations:
+    scroll_reveal: true
+    hero_stagger: true
+
+# ── SEO / META ──
+seo:
+  og_title: "Jyotsna S | Legal Professional Portfolio"
+  og_description: "IV Year B.A.; LL.B (Hons.) student at SASTRA University. Legal researcher and moot court advocate."
+  og_type: "website"
+  og_image: "assets/og-image.png"
+  twitter_card: "summary_large_image"
+  keywords:
+    - "Jyotsna S"
+    - "law student"
+    - "legal research"
+    - "SASTRA University"
+    - "moot court"
+    - "Kerala lawyer"
+    - "LL.B student"
+    - "legal intern"
+
+# ── BUILD / DEPLOYMENT ──
+build:
+  output_dir: "./"
+  assets_dir: "assets/"
+  css_file: "assets/style.css"
+  html_file: "index.html"
+
+deployment:
+  platform: "github-pages"        # Options: github-pages, netlify, vercel
+  branch: "main"
+  root_dir: "/"
+  auto_deploy: true
+
+# ── FOOTER ──
+footer:
+  text: "© 2025 Jyotsna S. · All Rights Reserved · IV Year B.A.; LL.B (Hons.)"
